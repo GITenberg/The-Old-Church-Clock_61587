@@ -1,5 +1,5 @@
 _repo: The-Old-Church-Clock_61587
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Wordsworth, William
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '2879'
     url: http://www.gutenberg.org/2009/agents/2879
     wikipedia: https://en.wikipedia.org/wiki/William_Wordsworth
+covers:
+- cover_type: archival
+  image_path: 61587-h/images/cover.jpg
 creator:
   author:
     agent_name: Parkinson, Richard
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51505
     wikipedia: https://en.wikipedia.org/wiki/Richard_Parkinson_(priest)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61587#The-Old-Church-Clock
 gutenberg_issued: '2020-03-08'
 gutenberg_type: Text
 identifiers:
