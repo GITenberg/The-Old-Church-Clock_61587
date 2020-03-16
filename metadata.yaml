@@ -1,0 +1,35 @@
+_repo: The-Old-Church-Clock_61587
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Wordsworth, William
+    birthdate: 1770
+    deathdate: 1850
+    gutenberg_agent_id: '2879'
+    url: http://www.gutenberg.org/2009/agents/2879
+    wikipedia: https://en.wikipedia.org/wiki/William_Wordsworth
+creator:
+  author:
+    agent_name: Parkinson, Richard
+    birthdate: 1797
+    deathdate: 1858
+    gutenberg_agent_id: '51505'
+    url: http://www.gutenberg.org/2009/agents/51505
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Parkinson_(priest)
+description: ''
+gutenberg_issued: '2020-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61587'
+  lccn: '07004453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Walker, Robert, 1710-1802'
+- !lcsh 'English fiction -- 19th century'
+- GITenberg
+title: The Old Church Clock
+url: http://www.gutenberg.org/ebooks/61587
